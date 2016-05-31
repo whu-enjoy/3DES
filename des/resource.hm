@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by des.rc
+//
+#define HIDC_EDIT_PSW1                  0x806603ed    // IDD_DES_DIALOG

@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: des - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/des.pdb" /machine:I386 /out:"Release/des.exe"  ".\Release\des.obj" ".\Release\desDlg.obj" ".\Release\StdAfx.obj" ".\Release\des.res" "
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+des.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
